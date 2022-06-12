@@ -1,0 +1,19 @@
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\bin\Debug\FractalJulia.exe.config
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\bin\Debug\FractalJulia.exe
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\bin\Debug\FractalJulia.pdb
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\obj\Debug\FractalJulia.Form1.resources
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\obj\Debug\FractalJulia.Properties.Resources.resources
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\obj\Debug\FractalJulia.csproj.GenerateResource.Cache
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\obj\Debug\FractalJulia.exe
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\obj\Debug\FractalJulia.pdb
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\obj\Debug\FractalJulia.csprojResolveAssemblyReference.cache
+D:\ProgramFiles\FractalJulia\FractalJulia\FractalJulia\bin\Debug\FractalJulia.exe.config
+D:\ProgramFiles\FractalJulia\FractalJulia\FractalJulia\bin\Debug\FractalJulia.exe
+D:\ProgramFiles\FractalJulia\FractalJulia\FractalJulia\bin\Debug\FractalJulia.pdb
+D:\ProgramFiles\FractalJulia\FractalJulia\FractalJulia\obj\Debug\FractalJulia.csproj.AssemblyReference.cache
+D:\ProgramFiles\FractalJulia\FractalJulia\FractalJulia\obj\Debug\FractalJulia.Properties.Resources.resources
+D:\ProgramFiles\FractalJulia\FractalJulia\FractalJulia\obj\Debug\FractalJulia.csproj.GenerateResource.cache
+D:\ProgramFiles\FractalJulia\FractalJulia\FractalJulia\obj\Debug\FractalJulia.csproj.CoreCompileInputs.cache
+D:\ProgramFiles\FractalJulia\FractalJulia\FractalJulia\obj\Debug\FractalJulia.exe
+D:\ProgramFiles\FractalJulia\FractalJulia\FractalJulia\obj\Debug\FractalJulia.pdb
+D:\ProgramFiles\FractalJulia\FractalJulia\FractalJulia\obj\Debug\FractalJulia.Form2.resources
